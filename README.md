@@ -26,3 +26,4 @@ In these cases, in order not to lose the data, the "server" may have duplicated 
 - Other items may contain an "&" or a "-" symbol in adition to the word (in any place).
 - Some tuples may be duplicated in any of the 2 initial files.
 
+Objectives are stored (in spanish, I'm sorry) in the Word document in the "csvs" folder.
